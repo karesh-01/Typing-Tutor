@@ -6,15 +6,15 @@ Typing Tutor is an application developed in C language which enables the user to
 
 ![image](https://user-images.githubusercontent.com/70337635/215983032-4fc6a5a0-cb23-4b8e-8e1c-6d425a693038.png)
 
-#Level 1
+# Level 1
 
 ![image](https://user-images.githubusercontent.com/70337635/215983149-c63f5714-0ca1-42c6-bf34-3dfcef29ee7d.png)
 
-#Level 2
+# Level 2
 
 ![image](https://user-images.githubusercontent.com/70337635/215983286-38535c35-b2c4-4220-8b7a-d33a65101e6d.png)
 
-#Level 3
+# Level 3
 
 ![image](https://user-images.githubusercontent.com/70337635/215983698-b2c35744-cf91-4ddf-bfe3-88b9048a3835.png)
 
